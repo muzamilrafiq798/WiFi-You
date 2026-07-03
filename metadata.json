@@ -1,0 +1,6 @@
+{
+  "name": "WiFi You",
+  "description": "WiFi You is a modern, expressive WiFi monitoring, devices list, speed test and offline network analytics application styled with Material You (Material 3 Expressive).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
